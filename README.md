@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Deep Learning and related fields.**
 
-- 👯 I’m looking to collaborate on **Open Source.**
+- 👯 I’m looking to collaborate on **Open Source projects.**
 
 - 🤝 I’m looking for help with **ML based project ideas.**
 
-- 👨‍💻 All of my projects are available at [https://ayansardar.netlify.app/](https://ayansardar.netlify.app/)
+- 👨‍💻 Visit my website - [https://ayansardar.netlify.app/](https://ayansardar.netlify.app/)
 
-- 💬 Ask me about **MERN stack development, Exploratory Data Analysis.**
+- 💬 Let's connect and work discuss about **MERN stack development, Exploratory Data Analysis.**
 
 - 📫 How to reach me **ayanspeakss@gmail.com**
 
