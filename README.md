@@ -15,7 +15,7 @@
 
 - 👨‍💻 Visit my website - [https://ayansardar.netlify.app/](https://ayansardar.netlify.app/)
 
-- 💬 Let's connect and work discuss about **MERN stack development, Exploratory Data Analysis.**
+- 💬 Let's connect and discuss about **MERN stack development, Exploratory Data Analysis.**
 
 - 📫 How to reach me **ayanspeakss@gmail.com**
 
